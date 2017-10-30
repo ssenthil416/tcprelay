@@ -14,4 +14,3 @@ Connect to localhost:8081
 telnet localhost 8081
 Hello World
 Hello World
-
